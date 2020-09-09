@@ -4,7 +4,10 @@
 
 本意是希望能将电表相关报文的组建以及解析重新进行封装，后期由于工作任务较重，故仅实现了对698报文的组装部分，若需要解析可以参看
 
-[]报文解析插件: https://github.com/qinling0918/FrameMessageParser
+
+
+[报文解析]: https://github.com/qinling0918/FrameMessageParser
+
 
 
 
